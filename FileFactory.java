@@ -1,4 +1,4 @@
-package dev.risas.motd.utilities.file;
+package dev.risas.FileFactory;
 
 import com.google.common.io.ByteStreams;
 import lombok.Getter;
